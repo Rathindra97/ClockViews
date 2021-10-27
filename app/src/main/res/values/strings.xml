@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClockViews</string>
+    <string name="analog_clock">Analog Clock</string>
+    <string name="digital_clock">Digital Clock</string>
+    <string name="text_clock">Text Clock</string>
+    <string name="click_your_choise_below"><![CDATA[Click your choise below >>]]></string>
+</resources>
